@@ -11,6 +11,7 @@ colorama==0.4.6
 Django==5.0.4
 dnspython==2.6.1
 Flask==3.0.2
+Frozen-Flask==0.15
 h11==0.14.0
 idna==3.6
 itsdangerous==2.1.2
